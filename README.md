@@ -17,9 +17,9 @@ C#
 +System.Threading (for pausing/time application)
 # Useful Websites
 
-- [Web Site Name](https://www.w3schools.com/cs/index.php)
-- [Web Site Name](http://ChatGpt.Com)
-- [Web Site Name](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/)
+- [W3Schools](https://www.w3schools.com/cs/index.php)
+- [Chat Gpt](http://ChatGpt.Com)
+- [Microsoft](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/)
 
 # Future Work
 
