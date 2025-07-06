@@ -1,0 +1,14 @@
+C:\Users\inert\Desktop\Ongoing Projects\C#\HealthScript\HealthScript\obj\Debug\net8.0\HealthScript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inert\Desktop\Ongoing Projects\C#\HealthScript\HealthScript\obj\Debug\net8.0\HealthScript.AssemblyInfoInputs.cache
+C:\Users\inert\Desktop\Ongoing Projects\C#\HealthScript\HealthScript\obj\Debug\net8.0\HealthScript.AssemblyInfo.cs
+C:\Users\inert\Desktop\Ongoing Projects\C#\HealthScript\HealthScript\obj\Debug\net8.0\HealthScript.csproj.CoreCompileInputs.cache
+C:\Users\inert\Desktop\Ongoing Projects\C#\HealthScript\HealthScript\bin\Debug\net8.0\HealthScript.exe
+C:\Users\inert\Desktop\Ongoing Projects\C#\HealthScript\HealthScript\bin\Debug\net8.0\HealthScript.deps.json
+C:\Users\inert\Desktop\Ongoing Projects\C#\HealthScript\HealthScript\bin\Debug\net8.0\HealthScript.runtimeconfig.json
+C:\Users\inert\Desktop\Ongoing Projects\C#\HealthScript\HealthScript\bin\Debug\net8.0\HealthScript.dll
+C:\Users\inert\Desktop\Ongoing Projects\C#\HealthScript\HealthScript\bin\Debug\net8.0\HealthScript.pdb
+C:\Users\inert\Desktop\Ongoing Projects\C#\HealthScript\HealthScript\obj\Debug\net8.0\HealthScript.dll
+C:\Users\inert\Desktop\Ongoing Projects\C#\HealthScript\HealthScript\obj\Debug\net8.0\refint\HealthScript.dll
+C:\Users\inert\Desktop\Ongoing Projects\C#\HealthScript\HealthScript\obj\Debug\net8.0\HealthScript.pdb
+C:\Users\inert\Desktop\Ongoing Projects\C#\HealthScript\HealthScript\obj\Debug\net8.0\HealthScript.genruntimeconfig.cache
+C:\Users\inert\Desktop\Ongoing Projects\C#\HealthScript\HealthScript\obj\Debug\net8.0\ref\HealthScript.dll
